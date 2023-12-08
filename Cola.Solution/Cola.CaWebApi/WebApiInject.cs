@@ -1,4 +1,5 @@
 ﻿using Cola.CaConsole;
+using Cola.Core.ColaConsole;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 

@@ -2,6 +2,7 @@
 using Cola.CaGrpc.ColaGrpcClientInterceptor;
 using Cola.CaLog.Core;
 using Cola.CaUtils.Constants;
+using Cola.Core.ColaConsole;
 using Cola.Models.Core.Models.ColaGrpc;
 using Grpc.AspNetCore.Server;
 using Grpc.Core;

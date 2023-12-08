@@ -2,7 +2,7 @@
 using System.Linq.Expressions;
 using Cola.CaEF.Models;
 using Cola.CaEF.Tenant;
-using Cola.CaException;
+using Cola.Core.ColaException;
 using Microsoft.Extensions.DependencyInjection;
 using SqlSugar;
 

@@ -1,10 +1,10 @@
 ﻿using System.Net;
 using System.Net.Mail;
 using System.Text;
-using Cola.CaException;
 using Cola.CaUtils.Constants;
 using Cola.CaUtils.Extensions;
 using Cola.CaWebApi.MailModels;
+using Cola.Core.ColaException;
 using Cola.Models.Core.Models.ColaWebApi;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;

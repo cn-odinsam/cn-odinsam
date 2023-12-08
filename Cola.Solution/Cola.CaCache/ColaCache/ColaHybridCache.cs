@@ -1,6 +1,6 @@
 ﻿using Cola.CaCache.IColaCache;
-using Cola.CaException;
 using Cola.CaUtils.Helper;
+using Cola.Core.ColaException;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

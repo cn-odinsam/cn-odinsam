@@ -1,9 +1,10 @@
 ﻿using System.Net;
 using System.Security.Cryptography.X509Certificates;
 using Cola.CaConsole;
-using Cola.CaException;
 using Cola.CaUtils.Constants;
 using Cola.CaUtils.Extensions;
+using Cola.Core.ColaConsole;
+using Cola.Core.ColaException;
 using Cola.Models.Core.Models.ColaWebApi;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;

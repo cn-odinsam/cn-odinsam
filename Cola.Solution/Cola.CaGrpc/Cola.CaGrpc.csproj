@@ -14,8 +14,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Cola.CaLog\Cola.CaLog.csproj" />
-      <ProjectReference Include="..\Cola.CaUtils\Cola.CaUtils.csproj" />
       <ProjectReference Include="..\Cola.Models.Core\Cola.Models.Core.csproj" />
     </ItemGroup>
 

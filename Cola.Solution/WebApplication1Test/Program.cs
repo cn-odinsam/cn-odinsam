@@ -1,6 +1,5 @@
 using System.Net;
 using Cola.CaCache;
-using Cola.CaException;
 using Cola.CaGrpc;
 using Cola.CaJwt;
 using Cola.CaLog;

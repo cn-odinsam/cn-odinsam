@@ -19,7 +19,5 @@
 
     <ItemGroup>
         <ProjectReference Include="..\Cola.CaCache\Cola.CaCache.csproj" />
-        <ProjectReference Include="..\Cola.CAException\Cola.CAException.csproj" />
-        <ProjectReference Include="..\Cola.CaLog\Cola.CaLog.csproj" />
     </ItemGroup>
 </Project>

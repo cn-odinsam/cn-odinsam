@@ -1,8 +1,8 @@
 ﻿using Cola.CaCache.ColaCache;
 using Cola.CaCache.IColaCache;
-using Cola.CaConsole;
 using Cola.CaUtils.Constants;
 using Cola.CaUtils.Extensions;
+using Cola.Core.ColaConsole;
 using Cola.Models.Core.Models.CaCache;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

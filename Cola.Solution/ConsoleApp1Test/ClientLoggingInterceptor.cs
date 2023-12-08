@@ -1,4 +1,4 @@
-﻿using Cola.CaLog.Core;
+﻿using Cola.Core.ColaLog.Core;
 using Grpc.Core;
 using Grpc.Core.Interceptors;
 using Microsoft.Extensions.Logging;
